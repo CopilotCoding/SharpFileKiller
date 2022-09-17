@@ -3,7 +3,7 @@ Any path you enter into the console of this program, that file/path will be dele
 Be careful not to enter your main drive or other important paths like system32 into the console.
 I added two checks for paths, but there is no way in hell I am spending the time to hard code every possible path to avoid deleting.
 
-So the responsibility is on your for if your files all get deleted by using this program.
+So the responsibility is on you if your files get deleted by using this program.
 
 Simply modify the program to avoid paths you don't want deleted or don't use this program if you don't want to take that risk.
 
