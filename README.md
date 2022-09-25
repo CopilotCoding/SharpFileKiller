@@ -7,6 +7,9 @@ So the responsibility is on you if your files get deleted by using this program.
 
 Simply modify the program to avoid paths you don't want deleted or don't use this program if you don't want to take that risk.
 
+# Disclaimer
+
+May not be able to delete some files.
 
 #  CloseProcessAndDeleteFile
 
