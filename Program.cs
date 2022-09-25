@@ -1,4 +1,4 @@
-namespace FileKillerSharp
+namespace CloseProcessAndDeleteFile
 {
     using System;
     using System.Collections.Generic;
